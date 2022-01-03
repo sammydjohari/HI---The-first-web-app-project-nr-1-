@@ -1,2 +1,2 @@
 # webappHP
-Creating some kind of Harry Potter character gallery using an API. 
+Creating some kind of dog gallery using an API. 
