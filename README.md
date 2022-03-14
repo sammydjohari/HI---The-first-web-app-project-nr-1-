@@ -1,4 +1,4 @@
-# RecipeBank
+# The first web app
 
 ---
 
